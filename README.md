@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 FontCreator Free Installer** — FontCreator is a Windows font editor for creating and editing TrueType and OpenType fonts. Works without internet access, no account required. Full offline installation.
+**💻 FontCreator Free Installer** — FontCreator is a powerful font creation and editing application for Windows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About FontCreator
 
-FontCreator is a Windows font editor for creating and editing TrueType and OpenType fonts. It features a glyph editor with drawing tools, metrics editor, kerning pair management, and OpenType layout features — targeting hobbyist and semi-professional type designers.
+FontCreator is a powerful font creation and editing application for Windows. Create professional-quality TrueType and OpenType fonts from scratch or edit existing fonts. With drawing tools, glyph import from images, kerning editors, and OpenType feature support, FontCreator bridges the gap between beginner-friendly and professional font design software.
 
 ---
 
 ## ❌ Problem: FontCreator is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Paid License** — Multiple tiers from home to professional pricing
-- **Limited Variable Font** — Variable font support less mature than Glyphs or FontLab
-- **Learning Curve** — Font production requires understanding of type design fundamentals
+- **Windows Only** — No macOS or cross-platform version
+- **Commercial License** — Paid software with different pricing tiers
+- **Learning Curve** — Font design concepts require dedicated study time
+- **Variable Fonts** — Variable font support limited in older versions
 
 ---
 
@@ -121,7 +121,7 @@ FontCreator is a Windows font editor for creating and editing TrueType and OpenT
 
 ---
 
-**FontCreator Free Installer** — FontCreator is a Windows font editor for creating and editing TrueType and OpenType fonts. Install without internet connection today!
+**FontCreator Free Installer** — FontCreator is a powerful font creation and editing application for Windows. Install without internet connection today!
 
 <div align="center">
 
